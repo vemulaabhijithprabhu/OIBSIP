@@ -25,9 +25,9 @@ We have all come across ATMs in our cities and it is built on Java. This complex
 
 The project allows to perform following operations:
 
-Withdraw
-Deposit
-Transfer
-Check balance
-Transaction History
-Exit
+1. Withdraw
+2. Deposit
+3. Transfer
+4. Check balance
+5. Transaction History
+6. Exit
